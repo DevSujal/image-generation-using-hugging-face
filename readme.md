@@ -24,8 +24,8 @@ This Node.js application generates images based on user prompts using the Stable
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/DevSujal/image-generation-using-hugging-face.git
+cd image-generation-using-hugging-face
 ```
 
 2. Install dependencies:
